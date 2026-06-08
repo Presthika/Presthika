@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ## Hi I am Presthika 
 computer engineering @ northeastern '29 · embedded systems · robotics · AI
 
