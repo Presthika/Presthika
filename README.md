@@ -9,7 +9,7 @@ computer engineering @ northeastern '29 · embedded systems · robotics · AI
 - 🎓 honors CE, class of 2029 — northeastern university
 - 🤖 passionate about embedded AI, robotics, and hardware-software systems
 - 🔭 working toward a master's or Ph.D in ECE — hardware & software for machine intelligence
-- 🔍 seeking fall 2026 co-op in embedded systems or robotics
+- 🔍 seeking spring 2027 co-op in embedded systems or robotics
 
 ---
 
