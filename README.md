@@ -25,12 +25,15 @@ computer engineering @ northeastern '29 · embedded systems · robotics · hardw
 ### featured projects
 
 **🎣 [Pirate Fishing Game](https://github.com/Presthika/Fishing-Game---Engineering-Project-)** — raspberry pi pico · micropython
+
 Interactive fishing game demoed to visiting children at the Boston Children's Museum. IR breakbeam sensor with edge-triggered detection, PWM servo, I2C 16x2 LCD, laser-cut enclosure. Countdown runs off a hardware timer interrupt independent of the main polling loop.
 
 **🚁 [DroneSimulation](https://github.com/Presthika/DroneSimulation)** — C++ · object-oriented design
+
 Drone show simulator across four classes (Drone, FleetManager, MissionPlanner, SimulationEngine). Rule of Three for safe resource management, collision detection with rerouting, path planning, and five formation shapes in a menu-driven mission engine.
 
 **🚗 [Crazy Commute](https://github.com/Presthika/Crazy-Commute-Game)** — raspberry pi pico · micropython
+
 Transportation-themed board game driving three PWM servos, two RGB LEDs, four indicator LEDs, a 5-way switch, and a button across 20 GPIO pins. A randomized 6-step LED memory sequence gates the servo obstacles, all tracked in a single cooperative loop alongside a continuous traffic-light cycle.
 
 ---
@@ -38,7 +41,9 @@ Transportation-themed board game driving three PWM servos, two RGB LEDs, four in
 ### C++ coursework projects
 
 **[Queueing System](https://github.com/Presthika/MiniProject2_QueueingSystem)** — circular array-based queue implementation
+
 **[Routing Engine](https://github.com/Presthika/MiniProject8_RoutingEngine)** — pathfinding and route computation
+
 **[Image Denoising](https://github.com/Presthika/MiniProject3_CopilotPoweredImageDenoising)** — filtering over 2D pixel data
 
 ---
