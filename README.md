@@ -1,53 +1,51 @@
-# hi, i'm presthika 👋
+# Hi, I'm Presthika 👋
 
-computer engineering @ northeastern '29 · embedded systems · robotics · hardware-software co-design
+Computer engineering student at Northeastern University (Honors, class of 2029). I build things that sit between hardware and software: microcontrollers, sensors, real-time timing, and the C++ underneath.
 
----
+🔍 **Seeking a Spring 2027 co-op** in embedded systems, robotics, or software engineering
 
-- 🎓 honors computer engineering, class of 2029 — northeastern university
-- 🤖 i build things that sit between hardware and software: microcontrollers, sensors, real-time timing, and the C++ underneath
-- 🔬 undergraduate researcher — built an automated genomics pipeline (python, BWA-MEM, pysam) currently supporting a first-author manuscript
-- 🔍 **seeking spring 2027 co-op** in embedded systems, robotics, or software engineering
-- 🔭 long-term: graduate work in ECE — hardware & software for machine intelligence
+🔬 **Undergraduate researcher** building an automated genomics pipeline (Python, BWA-MEM, pysam) for a first-author manuscript in preparation
+
+🔭 **Long-term:** graduate work in ECE, focused on hardware and software for machine intelligence
 
 ---
 
-### languages & tools
+## Featured projects
 
-**languages** `C++` `Python` `MicroPython` `MATLAB`
+### 🎣 [Pirate Fishing Game](https://github.com/Presthika/Fishing-Game---Engineering-Project-)
+**Raspberry Pi Pico · MicroPython · AutoCAD**
 
-**embedded** `Raspberry Pi Pico` `I2C` `PWM` `hardware timers & interrupts` `servos` `RGB LEDs` `16x2 LCD` `breadboard prototyping`
+<img src="https://raw.githubusercontent.com/Presthika/Fishing-Game---Engineering-Project-/main/images/finished-game.jpg" width="600" alt="Pirate Fishing Game at the Boston Children's Museum">
 
-**tools** `Git` `Linux/Unix` `Conda` `VS Code` `AutoCAD` `SolidWorks` `laser cutting` `LaTeX`
+Spinning-disk fishing game built with a 4-person team. 76 children played 90 rounds at the Boston Children's Museum. An IR breakbeam sensor counts each catch, a PWM servo spins the disk, and an I2C LCD shows the score. The 2-minute countdown runs on a hardware timer interrupt, holding ±1 s accuracy across 10 trials.
 
----
+### 🚗 [Crazy Commute](https://github.com/Presthika/Crazy-Commute-Game)
+**Raspberry Pi Pico · MicroPython · AutoCAD**
 
-### featured projects
+Client-requested board game driving 3 PWM servos, 2 RGB LEDs, 4 indicator LEDs, a 5-way switch, and a button across 20 GPIO pins, all inside a foldable laser-cut enclosure. A randomized 6-step LED memory sequence triggers the servo obstacles, tracked in a single cooperative loop alongside a continuous traffic-light cycle.
 
-**🎣 [Pirate Fishing Game](https://github.com/Presthika/Fishing-Game---Engineering-Project-)** — raspberry pi pico · micropython
+### 🚁 [Drone Fleet Simulator](https://github.com/Presthika/DroneSimulation)
+**C++ · Object-Oriented Design**
 
-Interactive fishing game demoed to visiting children at the Boston Children's Museum. IR breakbeam sensor with edge-triggered detection, PWM servo, I2C 16x2 LCD, laser-cut enclosure. Countdown runs off a hardware timer interrupt independent of the main polling loop.
+Drone show simulator across four classes (Drone, FleetManager, MissionPlanner, SimulationEngine). Uses the Rule of Three for safe resource management, with collision detection and rerouting, path planning, and five formation shapes in a menu-driven mission engine.
 
-**🚁 [DroneSimulation](https://github.com/Presthika/DroneSimulation)** — C++ · object-oriented design
-
-Drone show simulator across four classes (Drone, FleetManager, MissionPlanner, SimulationEngine). Rule of Three for safe resource management, collision detection with rerouting, path planning, and five formation shapes in a menu-driven mission engine.
-
-**🚗 [Crazy Commute](https://github.com/Presthika/Crazy-Commute-Game)** — raspberry pi pico · micropython
-
-Transportation-themed board game driving three PWM servos, two RGB LEDs, four indicator LEDs, a 5-way switch, and a button across 20 GPIO pins. A randomized 6-step LED memory sequence gates the servo obstacles, all tracked in a single cooperative loop alongside a continuous traffic-light cycle.
-
----
-
-### C++ coursework projects
-
-**[Queueing System](https://github.com/Presthika/MiniProject2_QueueingSystem)** — circular array-based queue implementation
-
-**[Routing Engine](https://github.com/Presthika/MiniProject8_RoutingEngine)** — pathfinding and route computation
-
-**[Image Denoising](https://github.com/Presthika/MiniProject3_CopilotPoweredImageDenoising)** — filtering over 2D pixel data
+### C++ coursework
+- [Queueing System](https://github.com/Presthika/MiniProject2_QueueingSystem): circular array-based queue
+- [Routing Engine](https://github.com/Presthika/MiniProject8_RoutingEngine): pathfinding and route computation
+- [Image Denoising](https://github.com/Presthika/MiniProject3_CopilotPoweredImageDenoising): filtering over 2D pixel data
 
 ---
 
-### connect
+## Skills
 
-[LinkedIn](https://www.linkedin.com/in/presthika-vijaykumar/) · vijaykumar.pr@northeastern.edu
+**Languages:** C++, Python, MicroPython, MATLAB
+
+**Embedded & hardware:** Raspberry Pi Pico, FPGA (DE1-SoC, Quartus), GPIO, I2C, PWM, hardware timers & interrupts, digital logic design, breadboard prototyping
+
+**Tools:** Git, Linux/Unix, Conda, VS Code, AutoCAD, SolidWorks, laser cutting, 3D printing, LaTeX
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/presthika-vijaykumar-41b68731b/) · vijaykumar.pr@northeastern.edu
