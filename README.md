@@ -12,10 +12,10 @@ Computer engineering student at Northeastern University (Honors, class of 2029).
 
 ## Featured projects
 
-### 🎣 [Pirate Fishing Game](https://github.com/Presthika/Fishing-Game---Engineering-Project-)
+### 🎣 [Pirate Fishing Game](https://github.com/Presthika/Pirate-Fishing-Game)
 **Raspberry Pi Pico · MicroPython · AutoCAD**
 
-<img src="https://raw.githubusercontent.com/Presthika/Fishing-Game---Engineering-Project-/main/images/finished-game.jpg" width="600" alt="Pirate Fishing Game at the Boston Children's Museum">
+<img src="https://raw.githubusercontent.com/Presthika/Pirate-Fishing-Game/main/images/finished-game.jpg" width="600" alt="Pirate Fishing Game at the Boston Children's Museum">
 
 Spinning-disk fishing game built with a 4-person team. 76 children played 90 rounds at the Boston Children's Museum. An IR breakbeam sensor counts each catch, a PWM servo spins the disk, and an I2C LCD shows the score. The 2-minute countdown runs on a hardware timer interrupt, holding ±1 s accuracy across 10 trials.
 
