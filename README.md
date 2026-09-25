@@ -22,7 +22,7 @@ Spinning-disk fishing game built with a 4-person team. 76 children played 90 rou
 ### 🚗 [Crazy Commute](https://github.com/Presthika/Crazy-Commute-Game)
 **Raspberry Pi Pico · MicroPython · AutoCAD**
 
-Client-requested board game driving 3 PWM servos, 2 RGB LEDs, 4 indicator LEDs, a 5-way switch, and a button across 20 GPIO pins, all inside a foldable laser-cut enclosure. A randomized 6-step LED memory sequence triggers the servo obstacles, tracked in a single cooperative loop alongside a continuous traffic-light cycle.
+Client-requested board game driving 3 PWM servos, 2 RGB LEDs, 4 indicator LEDs, a 5-way switch, and a button across 19 GPIO pins, all inside a foldable laser-cut enclosure. A randomized 6-step LED memory sequence triggers the servo obstacles, tracked in a single cooperative loop alongside a continuous traffic-light cycle.
 
 ### 🚁 [Drone Fleet Simulator](https://github.com/Presthika/DroneSimulation)
 **C++ · Object-Oriented Design**
